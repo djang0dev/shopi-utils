@@ -1,0 +1,26 @@
+{
+  "name": "@shopi-utils/monorepo",
+  "version": "1.0.0",
+  "description": "A mono-repo for some shopify utils",
+  "author": "djang0.dev",
+  "main": "index.js",
+  "scripts": {
+    "release": "pnpm changeset publish",
+    "changeset": "npx changeset",
+    "build": "pnpm -r build",
+    "test": "pnpm -r test"
+  },
+  "keywords": [
+    "shopify",
+    "utils",
+    "shopify theme",
+    "dawn",
+    "dawn theme",
+    "shopify theme utils"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.4.8",
+    "@changesets/cli": "^2.26.1"
+  }
+}

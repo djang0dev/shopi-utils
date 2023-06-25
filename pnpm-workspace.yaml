@@ -1,0 +1,6 @@
+packages:
+  - libs/*
+  - apps/*
+  - packages/*
+  - tools/*
+  - examples/*
