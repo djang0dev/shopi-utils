@@ -1,7 +1,7 @@
 {
   "name": "@shopi-utils/aplatir-vite-plugin",
   "private": false,
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A Vite plugin to flatten your project structure.",
   "author": "djang0.dev",
   "exports": {
